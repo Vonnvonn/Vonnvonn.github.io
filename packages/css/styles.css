@@ -616,6 +616,11 @@ img {
   font-size: var(--small-font-size);
   margin-bottom: var(--mb-1);
 }
+.qualification__subtitle_desc {
+  display: inline-block;
+  font-size: var(--small-font-size);
+  color: #fff;
+}
 
 .qualification__calendar {
   font-size: var(--smaller-font-size);
